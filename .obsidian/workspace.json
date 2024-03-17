@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/_index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/_index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/_index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/_index.md"
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "0b7cc8fd41cc8df2",
   "lastOpenFiles": [
+    "content/red-teaming/ctf-machines/pg-practice/nickel/images/test-image.webp",
+    "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
     "tags.temp",
     "tags.lock",
     "hugo.toml~",
@@ -169,8 +171,6 @@
     "content/red-teaming/ctf-machines",
     "content/blue-teaming",
     "content/red-teaming",
-    "4913",
-    "content/red-teaming/ctf-machines/pg-practice/nickel/images/test-image.webp",
-    "content/posts/first-post/images/test-image.webp.crdownload"
+    "4913"
   ]
 }
