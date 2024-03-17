@@ -10,4 +10,11 @@ tags:
   - default
 ---
 
-# Hello
+# Testing MD Features
+
+I can link `.webp` images, such as that:
+
+![WEBP Image](images/test-image.webp)
+
+
+
