@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/first-post/index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/first-post/index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/first-post/index.md",
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/first-post/index.md"
+                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md"
               }
             }
           },
@@ -158,13 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39ef3a8d1e671e87",
+  "active": "0b7cc8fd41cc8df2",
   "lastOpenFiles": [
-    "tags.lock",
     "tags.temp",
-    "content/posts/first-post/images/test-image.webp",
-    "content/posts/first-post/images/test-image.webp.crdownload",
-    "content/posts/first-post/images",
-    "content/posts/first-post"
+    "tags.lock",
+    "hugo.toml~",
+    "content/red-teaming/ctf-machines/htb",
+    "content/red-teaming/ctf-machines/pg-practice",
+    "content/red-teaming/ctf-competitions",
+    "content/red-teaming/ctf-machines",
+    "content/blue-teaming",
+    "content/red-teaming",
+    "4913",
+    "content/red-teaming/ctf-machines/pg-practice/nickel/images/test-image.webp",
+    "content/posts/first-post/images/test-image.webp.crdownload"
   ]
 }

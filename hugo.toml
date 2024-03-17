@@ -15,22 +15,29 @@ theme = "smol"
 # Header
 [menu]
   [[menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts/"
+        identifier = "red-teaming"
+        name = "Red Teaming"
+        url = "/red-teaming/"
         weight = 1 
+
+  [[menu.main]]
+        identifier = "blue-teaming"
+        name = "Blue Teaming"
+        url = "/blue-teaming/"
+        weight = 2 
+
 
   [[menu.main]]
         identifier = "categories"
         name = "Categories"
         url = "/categories/"
-        weight = 2 
+        weight = 3 
 
   [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
-        weight = 3
+        weight = 4
 
 # Footer
   [[menu.footer]]
@@ -38,3 +45,7 @@ theme = "smol"
         url = "https://github.com/prime-hacker"
         weight = 1 
 
+  [[menu.footer]]
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/walied-ahmed/"
+        weight = 2 
