@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
+                "file": "content/red-teaming/ctf-machines/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
+                "file": "content/red-teaming/ctf-machines/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
+                "file": "content/red-teaming/ctf-machines/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/red-teaming/ctf-machines/pg-practice/nickel/index.md"
+                "file": "content/red-teaming/ctf-machines/index.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "0b7cc8fd41cc8df2",
   "lastOpenFiles": [
-    "content/red-teaming/ctf-machines/pg-practice/nickel/images/test-image.webp",
+    "content/red-teaming/ctf-machines/Untitled.md",
+    "content/red-teaming/ctf-machines/index.md",
+    "content/red-teaming/index.md",
     "content/red-teaming/ctf-machines/pg-practice/nickel/index.md",
+    "content/red-teaming/ctf-machines/pg-practice/nickel/images/test-image.webp",
     "tags.temp",
     "tags.lock",
     "hugo.toml~",
